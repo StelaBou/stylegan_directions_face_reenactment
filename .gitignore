@@ -1,0 +1,5 @@
+*.pt
+*.pth
+training_attempts/
+results/
+__pycache__
